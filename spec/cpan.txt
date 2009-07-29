@@ -1,0 +1,81 @@
+The CPAN - There's a module for that
+
+########################################################################
+
+This page starts with a story in big letters.
+
+"I sat down at my computer to develop <something here>.  Turns out all
+  I had to do was type:
+  
+    cpan install <something else here>
+
+########################################################################
+
+The next section of the page is a kind of "feature list" sales blurb about
+the CPAN.  Something that looks a little like
+http://www.apple.com/macbookair/graphics.html
+
+- Easy to install
+
+Perl doesn't require you to hunt all over the web for various dependancies
+to install extensions and follow baroque installation instructions for each
+ne.  It's just as simply as typing
+
+    cpan install <whatever>
+
+And the cpan shell, which ships with Perl, will install your module and 
+all it's dependancies for you.  Simple.
+
+- Quality assured
+
+Perl modules aren't just installed;  They're tested too.  Each module on the
+CPAN ships with its own test suite and whenever you install a Perl module its
+suite is run on your computer to make sure the module functions correctly for
+you.
+
+Want to know if the module is going to work before you get to that stage?  The
+CPAN Testers test all modules that are deployed to CPAN on a wide range of
+architectures so chances are, if there's a problem, you and the author will
+know about it before then.  No more nasty suprises.
+
+- Documented
+
+No more wondering how to use extensions.  Every Perl module you install from
+CPAN includes documentation in a standard format that can be read on your
+computer, or accessed on the web online before you install. Best of all,
+the documentation always starts with a small concrete example
+so you can jump right in and start using the module straight away.
+
+- Supported
+
+Still not quite understanding something about a module? Browse
+the extensive annotations to the module documentation made by contributers.
+
+Have questions?  Ask in the unique forum created for the CPAN module and
+make use of the extensive knowledge of experts who've used the module before.
+
+Got a problem?  Never fear, each module has a dedicated bug tracking queue
+allowing you to file issues and make sure that they're dealt with promply.
+
+- Easy to find what you're looking for
+
+The CPAN has its own dedicated search engine that allows you quickly find
+exactly the module you're looking for.
+
+Need a recommendation?  See what modules your contacts rate, and read online
+reviews of the module.
+
+Want to know what module you should be using with this module?  Check out the
+"See Also" section at the bottom of every module documentation listing other
+things on CPAN you should be checking out.
+
+- Reliable
+
+Fed up with your build system falling over because it can't reliably download
+the latest version of a project?  CPAN is widely mirrored....
+
+- Take it on the go
+
+(crud about minicpan here)
+
+########################################################################

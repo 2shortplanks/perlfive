@@ -1,0 +1,117 @@
+########################################################################
+
+Ascii diagram of the page (exact layout not set in stone):
+
+   111111111111111111111111111111111
+   
+   222222222222222222222222    55555
+   222222222222222222222222    55555
+   222222222222222222222222    55555
+   222222222222222222222222    55555
+                               55555
+   444444 33333333333333333    55555
+   444444 33333333333333333    55555
+   444444 33333333333333333    55555
+   444444 33333333333333333    55555
+   444444 33333333333333333    55555
+   444444 33333333333333333    55555
+   444444 33333333333333333    55555
+   444444 33333333333333333    55555
+   444444 33333333333333333    55555
+   444444 33333333333333333    55555
+
+Where roughly these sections are
+
+1: title and strapline (apple example to copy: "iPhone 3GS" "The fastest, most powerful iPhone yet")
+
+2: More detailed buzz word laden section
+
+Brief explanation of what Perl is, written to the audience of someone who has a particular goal in mind.
+
+3: Calls to action section, listing how to do things that you might want to do with Perl today (e.g. "start a website in minutes".)   This is THINGS YOU CAN DO WITH PERL not HOW TO LEARN PERL.  Concentration on meeting the GOALS of someone visiting the site.
+
+At the very least this should have a sections on:
+
+* Building enterprise level websites quickly and easily (blurb for catalyst)
+* Managing complex databases trivially (blurb for DBIx-Class, with a nod to DBI and how this works on any database)
+* Speeding up your existing non-perl website (blurb for memcached and how you can use it with other langauges - this makes us seem non-ghettoised too)
+* Doing something very funky with Web 2.0 (leveraging big sections of CPAN to combine random bits of websites)
+
+Note that these are *not* tutorials but marketing speals.  They're not very long (no more than a paragraph each) and each link to another page with the CTA "Learn More" at the bottom.
+
+4. News section.
+
+This differs from Perl Buzz and use.perl.org in several ways
+
+- It's not a blog.  Items get replaced rather than rolling off the bottom (i.e. there's never going to be two stories about YAPC::Europe at the same time.)
+- It's up-to-date news that's designed to last.  It's major stories, so it has things like:
+  - Conferences
+  - Releases of Perl (inc development releases)
+  - Releases of important distributions (including, but not limited to: DBI, DBIx-Class, Moose, Catalyst)
+  - Completion of big projects, grants, etc (but NOT announcement of these things)
+
+The point of this news is NOT to inform, but rather to create an impression on the first time vistor to the site that Important Things Are Happening.   The headlines themselves should probably be of the form "Perl 5.10.1 RC releases on the 3rd March 2009".
+
+5. Break out section.
+
+Break out boxes on right hand side
+
+-----
+
+Powering the modern web
+
+Perl powers some of the biggest high traffic websites out there today, from social networking giants like Facebook, Twitter and Myspace to ecommerce and entertainment giants like Amazon and the BBC.
+
+                     Learn more
+
+----
+
+The CPAN - There's a module for that
+
+Whatever you need to do, chances are there's already an open source extension for Perl that
+
+ * 16,240 seperate modules
+ * 7,546 authors
+ * 97 releases in the last 24 hours
+
+                      Learn more
+
+-----
+
+Vibrant Community
+
+The global Perl scene
+
+  * <number here> Perl Conferences in 2009
+  * Over <number here> local user groups worldwide
+  * A wide range of support websites and mailing lists
+  
+                      Learn more
+
+-----
+
+Active Development
+
+Perl is being activly developed
+
+  * X releases of Perl
+  * Eight changes to the development version of perl in last 24 hours
+
+                           Learn more
+
+-----
+
+Blue Sky
+
+Perl 6, an experimental project by the people behind Perl 5, serves as a incubator for new technolgies and ideas, many of which are fed back for use with the core Perl 5 project.
+
+                          Learn more
+
+(At the bottom of the page - "last updeated <X>" where this )
+
+
+
+
+
+########################################################################
+

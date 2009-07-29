@@ -1,0 +1,23 @@
+The intended audience of the perlfive.com website is to provide a landing page
+for people considering Perl as a technology.  These are two overlapping groups:
+
+  1. Developers
+  2. People who make buisness descisions about what technologies things are developed in
+
+The philosophy behind the website is that we are trying to sell Perl as a technology
+that matches the goals of those people.
+
+In particular to create the following impression:
+
+ - Perl is being used in high-profile websites on an enterprise level
+ - Perl is under active development and has wide ranging community support
+ - Perl is an approachable technology which:
+   * makes completing the development goals simpler
+   * and learning how to do this is easy
+ - That Perl 5's future is not tied to the (widely seen as) vapourware of Perl 6
+ 
+Non-goals of the project:
+
+ - Teach people aspect of programming Perl itself
+ - Service people who already use Perl in any way
+
